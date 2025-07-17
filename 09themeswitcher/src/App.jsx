@@ -1,4 +1,4 @@
-
+//remember to change config in tailwind by adding darkmode: 'class' in tailwind.config.js
 import { useEffect, useState } from 'react'
 import './App.css'
 import { ThemeProvider } from './contexts/theme'
